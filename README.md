@@ -8,8 +8,7 @@ Download from python.org (3.8+ version)
 Check installation:
 
 bash
-Copy
-python --version
+''' python --version
 2. Install VS Code (or use Google Colab in browser)
 
 VS Code Download
